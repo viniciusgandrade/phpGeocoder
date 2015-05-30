@@ -1,0 +1,6 @@
+{
+    "require": {
+        "willdurand/geocoder": "~3.0",
+	"egeloen/http-adapter": "*"
+    }
+}
